@@ -210,8 +210,7 @@ This is an **independent portfolio project** using publicly available HFEA data 
 
 **Vindya Siriwardhana**
 - **LinkedIn**: (https://www.linkedin.com/in/vindya-siriwardhana/)
-- **Email**: [Add your email]
-- **Portfolio**: [Add portfolio link if available]
+- **Email**: [asvindyaravi@gmail.com]
 
 ---
 
