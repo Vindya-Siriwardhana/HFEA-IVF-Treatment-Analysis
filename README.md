@@ -209,8 +209,8 @@ This is an **independent portfolio project** using publicly available HFEA data 
 ## 📧 Contact
 
 **Vindya Siriwardhana**
-- **LinkedIn**: (https://www.linkedin.com/in/vindya-siriwardhana/)
-- **Email**: [asvindyaravi@gmail.com]
+- **LinkedIn**: https://www.linkedin.com/in/vindya-siriwardhana/
+- **Email**: asvindyaravi@gmail.com
 
 ---
 
